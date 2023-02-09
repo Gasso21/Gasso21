@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jhjung1227@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jhjung1227@gmail.com-000000?style=social&logo=#EA4335&logoColor=000000"/></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jhjung1227@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jhjung1227@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
