@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="[버튼을 눌렀을 때 이동할 링크](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jhjung1227@gmail.com)" target="_blank"><img src="https://img.shields.io/badge/jhjung1227@gmail.com-critical?style=social&logo=#EA4335&logoColor=critical"/></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jhjung1227@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jhjung1227@gmail.com-critical?style=social&logo=#EA4335&logoColor=critical"/></a>
