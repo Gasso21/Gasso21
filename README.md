@@ -6,12 +6,12 @@ I'm studying about Artificial Inteligence after work and interested in CNN, Mach
 After discharge, I will go to graduate school to stuy more.
 
 ### 💪 Skills
-**Language**
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-008080?style=flat-square&logo=Latex&logoColor=white"/></a>
+**Language**. 
+<img src="https://img.shields.io/badge/A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/008080?style=flat-square&logo=Latex&logoColor=white"/></a>
 
-**Framework**
-<img src="https://img.shields.io/badge/C-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+**Framework**. 
+<img src="https://img.shields.io/badge/FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
