@@ -18,4 +18,4 @@ After discharge, I will go to graduate school to stuy more.
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 
-![JGasso21's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gasso21&show_icons=true&theme=radical)
+![Gasso21's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gasso21&show_icons=true&theme=radical)
