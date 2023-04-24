@@ -3,7 +3,7 @@
 
 👋 Hi there! I'm serving as a lieutenant in the South Korean Army and will be discharged from the military on June 30, 2023.  
 I'm studying about Artificial Inteligence after work and interested in Computer Vision, Generative Models, Machine Learning and Data Analysis.  
-After discharge, I will go to graduate school to stuy more.
+I am planning to improve my knowledge at graduate school after discharged.
 
 ### 💪 Skills
 **Language**
