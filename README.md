@@ -1,10 +1,7 @@
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jhjung1227@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jhjung1227@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/_jaex2_?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/jaex2-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-👋 Hello! I worked as a lieutenant at Army in South Korea by June 30, 2023.  
-These days, I am studying Artificial Inteligence and really interested in Computer Vision, Generative Models, Machine Learning and Data Analysis.  
-I am planning to improve myself at graduate school.  
-Thank you for reading my cover letter.
+👋 
 
 ### 💪 Skills
 **Language**
