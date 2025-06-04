@@ -14,7 +14,8 @@
 *Visiting Graduate Researcher – Mechanical and Aerospace Engineering*  
 📍 Mar. 2025 – Mar. 2026 · California, USA
 
-### ![Korea University Logo](https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Korea_University_symbol.svg/32px-Korea_University_symbol.svg.png) Korea University  
+### ![Korea University Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Korea_University_logotype_%28English_version%29.svg/32px-Korea_University_logotype_%28English_version%29.svg.png)
+ Korea University  
 *Ph.D. – Artificial Intelligence (Expected)*  
 📍 Mar. 2024 – Feb. 2029 · Seoul, South Korea
 
