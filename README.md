@@ -10,15 +10,15 @@
 
 ## 🎓 Education
 
-### <img src="assets/ucla_logo.png" height="32"/> University of California, Los Angeles  
+### <img src="assets/ucla_logo.png" height="16"/> University of California, Los Angeles  
 *Visiting Graduate Researcher – Mechanical and Aerospace Engineering*  
 📍 Mar. 2025 – Mar. 2026 · California, USA
 
-### <img src="assets/ku_logo.png" height="32"/> Korea University  
+### <img src="assets/ku_logo.png" height="16"/> Korea University  
 *Ph.D. – Artificial Intelligence (Expected)*  
 📍 Mar. 2024 – Feb. 2029 · Seoul, South Korea
 
-### <img src="assets/cau_logo.png" height="32"/> Chung-Ang University  
+### <img src="assets/cau_logo.png" height="16"/> Chung-Ang University  
 *B.E. – Electrical & Electronic Engineering*  
 📍 Mar. 2017 – Feb. 2021 · Seoul, South Korea
 
