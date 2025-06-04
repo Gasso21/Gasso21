@@ -8,16 +8,36 @@
   <img src="https://img.shields.io/badge/jaex2-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
 
-🎓 EDUCATION
-University of California, Los Angeles
-Visiting Graduate Researcher – Mechanical and Aerospace Engineering
-📍 Mar. 2025 – Mar. 2026 · California, USA
-Korea University
-Ph.D. – Artificial Intelligence (Expected)
-📍 Mar. 2024 – Feb. 2029 · Seoul, South Korea
-Chung-Ang University
-B.E. – Electrical & Electronic Engineering
-📍 Mar. 2017 – Feb. 2021 · Seoul, South Korea
+## 🎓 Education
+
+<table>
+  <tr>
+    <td width="120"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/UCLA_Bruins_logo.svg/120px-UCLA_Bruins_logo.svg.png" width="60"/></td>
+    <td>
+      <b>University of California, Los Angeles</b>  
+      <br/>Visiting Graduate Researcher – Mechanical and Aerospace Engineering  
+      <br/>📍 Mar. 2025 – Mar. 2026 · California, USA
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Korea_University_symbol.svg/120px-Korea_University_symbol.svg.png" width="60"/></td>
+    <td>
+      <b>Korea University</b>  
+      <br/>Ph.D. – Artificial Intelligence (Expected)  
+      <br/>📍 Mar. 2024 – Feb. 2029 · Seoul, South Korea
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Chung-Ang_University_emblem.svg/120px-Chung-Ang_University_emblem.svg.png" width="60"/></td>
+    <td>
+      <b>Chung-Ang University</b>  
+      <br/>B.E. – Electrical & Electronic Engineering  
+      <br/>📍 Mar. 2017 – Feb. 2021 · Seoul, South Korea
+    </td>
+  </tr>
+</table>
+
+
 
 ### 💪 Skills
 **Language**
