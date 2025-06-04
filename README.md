@@ -10,16 +10,16 @@
 
 ## 🎓 Education
 
-### ![UCLA Logo](https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/UCLA_Bruins_logo.svg/32px-UCLA_Bruins_logo.svg.png) University of California, Los Angeles  
+### ![UCLA Logo](assets/ucla_logo.png) University of California, Los Angeles  
 *Visiting Graduate Researcher – Mechanical and Aerospace Engineering*  
 📍 Mar. 2025 – Mar. 2026 · California, USA
 
-### ![Korea University Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Korea_University_logotype_%28English_version%29.svg/32px-Korea_University_logotype_%28English_version%29.svg.png)
+### ![KU Logo](assets/ku_logo.png)
  Korea University  
 *Ph.D. – Artificial Intelligence (Expected)*  
 📍 Mar. 2024 – Feb. 2029 · Seoul, South Korea
 
-### ![CAU Logo](https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Chung-Ang_University_emblem.svg/32px-Chung-Ang_University_emblem.svg.png) Chung-Ang University  
+### ![CAU Logo](cau_logo.png) Chung-Ang University  
 *B.E. – Electrical & Electronic Engineering*  
 📍 Mar. 2017 – Feb. 2021 · Seoul, South Korea
 
