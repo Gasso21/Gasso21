@@ -23,13 +23,13 @@
 📍 Mar. 2017 – Feb. 2021 · Seoul, South Korea
 
 
-## 🧠 Academic Service
+## 📝 Academic Service
 - **Conference Reviewer**
   - CVPR 2025 (IEEE/CVF)
   - ICCV 2025 (IEEE/CVF)
   - DLT 2025 (The 29th International Conference on Developments in Language Theory)
 
-## 🛠 Skills
+## 💻 Skills
 - **Languages & Tools**: Python, Shell Script, Git, LaTeX
 - **Deep Learning**: PyTorch, PyTorch Lightning, TensorFlow
 - **Libraries**: Hugging Face, Scikit-Learn, NumPy, etc
