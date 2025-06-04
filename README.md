@@ -23,17 +23,15 @@
 📍 Mar. 2017 – Feb. 2021 · Seoul, South Korea
 
 
-## 💪 Skills
-**Language**
+## 🧠 Academic Service
+- **Conference Reviewer**
+  - CVPR 2025 (IEEE/CVF)
+  - ICCV 2025 (IEEE/CVF)
+  - DLT 2025 (The 29th International Conference on Developments in Language Theory)
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Latex-008080?style=flat-square&logo=Latex&logoColor=white"/></a>
-
-**Framework**
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+## 🛠 Skills
+- **Languages & Tools**: Python, Shell Script, Git, LaTeX
+- **Deep Learning**: PyTorch, PyTorch Lightning, TensorFlow
+- **Libraries**: Hugging Face, Scikit-Learn, NumPy, etc
 
 ![Gasso21's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gasso21&&show_icons=true&theme=dark)
