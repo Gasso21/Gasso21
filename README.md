@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
 </a>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jhwan@korea.ac.kr" target="_blank">
-  <img src="https://img.shields.io/badge/jhjung1227@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jhwan@korea.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 <a href="https://instagram.com/_jaex2_?igshid=YmMyMTA2M2Y=" target="_blank">
   <img src="https://img.shields.io/badge/jaex2-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
