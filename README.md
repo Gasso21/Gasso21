@@ -33,5 +33,3 @@
 - **Languages & Tools**: Python, Shell Script, Git, LaTeX
 - **Deep Learning**: PyTorch, PyTorch Lightning, TensorFlow
 - **Libraries**: Hugging Face, Scikit-Learn, NumPy, etc
-
-![Gasso21's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gasso21&&show_icons=true&theme=dark)
