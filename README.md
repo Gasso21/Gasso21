@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/jaex2-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
 
-## 🎓 Education
+## 🎓 Education & Experience
 
 ### <img src="assets/ucla_logo.png" height="16"/> University of California, Los Angeles  
 *Visiting Graduate Researcher – Mechanical and Aerospace Engineering*  
